@@ -1,69 +1,88 @@
-<h1 align="center">
-Hi 👋, I'm Hesham Eid Abdelrahman
-</h1>
+<h1 align="center">Hi 👋, I'm Hesham Eid Abdelrahman</h1>
 
 <h3 align="center">
-Flutter Developer 📱 | Mobile Applications
+Professional Flutter Developer | Mobile Applications Engineer
 </h3>
 
-<br/>
-
 <p align="center">
-🚀 Passionate about building cross-platform mobile apps using Flutter  
-<br/>
-🎯 Focused on clean UI, performance, and real-world projects
+Building scalable, high-performance mobile applications using Flutter
 </p>
 
 <br/>
 
-## 👨‍💻 About Me
-- 💙 Flutter Developer
-- 📱 Building Android & iOS apps
-- 🌱 Currently improving **Flutter, Dart & Firebase**
-- 🧠 Interested in **Clean Architecture & State Management**
-- 🇪🇬 From Egypt
+---
 
-<br/>
+## 👨‍💻 Professional Summary
+Flutter Developer with strong experience in building modern mobile applications for Android and iOS.  
+Strong programming fundamentals with experience in **C++** and problem-solving.  
+Focused on clean architecture, reusable components, and high-quality user experiences.  
+Comfortable working with APIs, Firebase, and state management solutions.
 
-## 🛠️ Languages & Tools
+---
+
+## 🧠 Technical Skills
+
+### 📱 Mobile Development
+- Flutter & Dart  
+- Responsive UI & Animations  
+- Clean Architecture  
+- RESTful APIs Integration  
+
+### 🧩 Programming Languages
+- Dart  
+- C++  
+
+### 🔁 State Management
+- Provider  
+- Bloc / Cubit  
+- GetX (basic)  
+
+### 🔥 Backend & Services
+- Firebase (Auth, Firestore, Storage)  
+- Push Notifications  
+- Local Storage (SharedPreferences, SQLite)  
+
+### 🛠️ Tools
+- Git & GitHub  
+- Postman  
+- VS Code / Android Studio  
+
+### 🌍 Languages
+- Arabic: Native  
+- English: **Intermediate**
+
+---
+
+## 📂 Selected Projects
+- **News App** – API integration, clean UI, pagination  
+- **Bookly App** – Online books browsing with REST API  
+- **Todo App** – Local storage & state management  
+- **BMI Calculator** – User input handling & calculations  
+- **Category App** – Grid layouts & navigation  
+
+> Explore more projects in my repositories ⬇️
+
+---
+
+## 📊 GitHub Analytics
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</p>
-
-<br/>
-
-## 📂 Projects
-- 📱 **News App** (Flutter + API)
-- ✅ **Todo App** (Flutter)
-- 📚 **Bookly App**
-- 🧮 **BMI Calculator**
-- 🧾 **Category App**
-
-> Check my repositories 👇
-
-<br/>
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hesham1111111111&show_icons=true&theme=github_dark" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham1111111111&layout=compact&theme=github_dark" />
 </p>
 
-<br/>
+---
 
-## 📫 Contact Me
-- 📧 Email: your_email@gmail.com
-- 💼 GitHub: https://github.com/YOUR_USERNAME
+## 📫 Contact Information
+- 📧 Email: eidhesham999@gmail.com  
+- 📱 WhatsApp: +20 115 491 2395  
+- 💼 LinkedIn: https://www.linkedin.com/in/hesham-eid-0831bb379  
+- 🌐 GitHub: https://github.com/Hesham1111111111  
 
 ---
 
 <p align="center">
-⭐ If you like my work, give my repositories a star!
+Committed to continuous learning and building impactful mobile solutions 🚀
 </p>
